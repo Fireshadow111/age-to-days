@@ -19,8 +19,14 @@ body{
 #input{
     padding-top: 20px;
     width: 800px;
-
 }
+
+#output{
+    padding-top: 20px;
+    width: 800px;
+    height: 90px;
+}
+
 .form-control{
     background-color: black;
     color: white;
